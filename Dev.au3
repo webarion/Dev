@@ -15,7 +15,7 @@
 ; Название .........: Dev
 ; Текущая версия ...: 1.1.0
 ; AutoIt Версия ....: 3.3.14.5
-; Описание .........: Помощник отладки
+; Описание .........: Помощник разработчика
 ; Автор ............: Webarion
 ; Сылки: ...........: http://webarion.ru, http://f91974ik.bget.ru
 ; Примечание .......: В сборке есть решения других авторов IIuOHeP и @Chimp
@@ -24,7 +24,7 @@
 ; Name .............: Dev
 ; Version ..........: 1.1.0
 ; AutoIt Version ...: 3.3.14.5
-; Description ......: Debugging assistant
+; Description ......: Developer assistant
 ; Author ...........: Webarion
 ; Shortcuts: .......: http://webarion.ru, http://f91974ik.bget.ru
 ; Note .............: The build contains solutions by other authors IIuOHeP and @Chimp
